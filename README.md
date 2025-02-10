@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/OmarElmelegy/someGif/master/wave.gif" width="30">
+## Hola <img src="https://raw.githubusercontent.com/OmarElmelegy/someGif/master/wave.gif" width="30">
 
 Hi, I'm **Omar Mohamed Elmelegy** – a Robotics Software Engineer based in Cairo, Egypt. I'm an innovative Electronics & Communications Engineering student specializing in robotics. I excel in integrating hardware and software solutions while leading multidisciplinary teams to achieve competitive results.
 
@@ -51,4 +51,4 @@ Hi, I'm **Omar Mohamed Elmelegy** – a Robotics Software Engineer based in Cair
 
 [![Linkedin Badge](https://img.shields.io/badge/-omar--elmelegy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-elmelegy/)](https://www.linkedin.com/in/omar-elmelegy/)  
 [![GitHub Badge](https://img.shields.io/badge/-OmarElmelegy-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/OmarElmelegy)](https://github.com/OmarElmelegy)  
-[![Gmail Badge](https://img.shields.io/badge/-omarelmelegy%40yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omarelmelegy234@gmail.com)](mailto:omarelmelegy@yahoo.com)
+[![Gmail Badge](https://img.shields.io/badge/-omarelmelegy234%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omarelmelegy234@gmail.com)](mailto:omarelmelegy234@gmail.com)
