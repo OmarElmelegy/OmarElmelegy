@@ -1,6 +1,6 @@
 ## Hola! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Hi, I'm **Omar Mohamed Elmelegy** – a Robotics Software Engineer based in Cairo, Egypt. I'm an innovative Electronics & Communications Engineering student specializing in robotics. I excel in integrating hardware and software solutions while leading multidisciplinary teams to achieve competitive results.
+Hi, I'm **Omar Mohamed Elmelegy**. I'm an innovative Electronics & Communications Engineering student specializing in robotics and Data Engineering. I excel in integrating hardware and software solutions while leading multidisciplinary teams to achieve competitive results.
 
 ---
 
