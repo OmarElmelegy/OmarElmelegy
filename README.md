@@ -1,21 +1,21 @@
 # Experience
 
-**Chief Synergy Orchestrator**
-Spearheaded the alignment of polymorphic deliverables with hyper-contextual stakeholder ecosystems, optimizing cross-pollination of scalable ideation loops for maximal throughput.
+**Director of Algorithmic Orchestration**
+Oversaw end-to-end software pipeline convergence for autonomous robotics platforms, synthesizing heuristic control loops with real-time data mesh topologies under the Open Ambiguity Foundation.
 
-**Principal Architect of Quantum Bureaucracy**
-Engineered frictionless liaison frameworks across interdepartmental silos, leveraging recursive policy matrices to streamline bureaucratic entanglements and elevate compliance elasticity.
+**Former Head of Data Plumbing & Kinetic Systems**
+Led the global foundation of situational systematic dependence, architecting programmatic regression analysis for sensor fusion networks and large-scale telemetry ingestion.
 
-**Senior Alchemist of Corporate Synergistics**
-Transmuted raw procedural ore into high-octane collaborative catalysts, driving paradigm-shifting initiatives through dynamic feedback alchemy and meta-heuristic leverage.
+**Lead Lead of Corpcorp Synergistics**
+Championed cross-disciplinary dev-ops initiatives, harmonizing containerized micro-services with meta-heuristic scheduling for maximal throughput in enterprise AI workflows.
 
 # Currently Learning
 
-* Entropic Differentiation & Obfuscation Systems
-* Push-to-Production & Hope Paradigms
-* Multivariate Verbosity Management in Hypercubic Regression
-* Phase-Transition Liquefaction Protocols
-* Recursive Meta-Analytics & Feedback Loops
-* Urban Rodent Sociometrics (Field Operations with Cheese)
+* Entropic Backpropagation & Inconviencience Engineering
+* Force-Push-and-Pray CI/CD Rituals
+* Verose Abstraction in Hypercubic Kinematics
+* Liquification of Sensor Data Streams
+* Recursive Meta-Analytics & Convergence Overanalysis
+* Urban Rat Swarm Optimization (cheese-driven reward functions)
 
-*Note: If “stream-of-consciousness coding” ever tops GitHub Trending, I’ll pivot my stack to pure chaos.*
+*building square wheels to better appreciate the round ones*
