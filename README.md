@@ -1,2 +1,5 @@
 
 *building square wheels to better appreciate the round ones*
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarelmelegy&hide=jupyter%20notebook)](https://github.com/omarelmelegy)
